@@ -5,7 +5,7 @@ Vous devez donc installer node js, je recommande la V12 ou V14.
 Puppetter utilise chromium, merci de l'installer et de ne pas utiliser d'autre npm que ceux mis dans le index.js  
 Télécharger le repo git, utiliser la partie exercice, vous n'aurez qu'à faire un `npm i` dans le dossier pour installer les librairies.  
 Pour lancer le script `node index.js`  
-Dans index.js, il y a par défaut du code, remplir args: [] par un user agent.  
+Dans index.js, il y a par défaut du code, remplir args: [] par un user agent. (man google)
 Si vous avez des questions venez nous voir, pareil si vous restez bloqué.
 
 ### Pour commencer le workshop, vous devrez faire un premier exercice:
