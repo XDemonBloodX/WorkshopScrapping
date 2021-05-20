@@ -7,8 +7,7 @@ puppeteer.use(StealthPlugin());
 //true for hidden Chromium
 puppeteer.launch({
     headless: false,
-    args: [ //your user agent
-    ]
+    args: [""]//your user agent
 }).then(async browser => {
     console.log('✷ Running browser..')
     const page = await browser.newPage()
